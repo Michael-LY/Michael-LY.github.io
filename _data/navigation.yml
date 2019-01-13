@@ -37,13 +37,13 @@ docs-en:
   - title:      Start
     children:
       - title:  Quick Start
-        url:    /docs/en/quick-start
+        url:    /docs/zh/quick-start
       - title:  Structure
-        url:    /docs/en/structure
+        url:    /docs/zh/structure
         
   - title:      Customization
     children:
       - title:  Configuration
-        url:    /docs/en/configuration
+        url:    /docs/zh/configuration
       - title:  Navigation
-        url:    /docs/en/navigation
+        url:    /docs/zh/navigation
