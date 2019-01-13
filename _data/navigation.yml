@@ -66,6 +66,23 @@ header:
       ko      : &KO       Github 
       ko-KR   : *KO
     url: https://github.com/Michael-LY/Michael-LY.github.io/
+    
+      - titles: 
+      en      : &EN       TopRace 
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  TopRace
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      zh-Hant : &ZH_HANT  TopRace 
+      zh-TW   : *ZH_HANT
+      zh-HK   : *ZH_HANT
+      ko      : &KO       TopRace 
+      ko-KR   : *KO
+    url: http://www.toprace.top/
 
 #docs-en:
 #  - title:      Start
