@@ -40,7 +40,7 @@ author:
   avatar    : img/MY_Logo_黑底.png # path or url of avatar image
   bio       : I am an amazing person.
   email     : moyi_001@qq.com
-  facebook  : 莫毅 # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
+  facebook  : profile.php?id=100004129718016 # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : Just_my_michael # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
