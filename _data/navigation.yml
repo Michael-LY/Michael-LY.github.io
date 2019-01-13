@@ -1,4 +1,4 @@
-header:
+﻿header:
   - titles:
       en      : &EN       Archive
       en-GB   : *EN
@@ -67,7 +67,7 @@ header:
       ko-KR   : *KO
     url: https://github.com/Michael-LY/Michael-LY.github.io/
     
-      - titles: 
+   - titles: 
       en      : &EN       TopRace 
       en-GB   : *EN
       en-US   : *EN
