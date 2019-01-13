@@ -39,7 +39,7 @@ header:
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS  WUTE服务器记录
+      zh-Hans : &ZH_HANS  WUTE 服务器记录
       zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
