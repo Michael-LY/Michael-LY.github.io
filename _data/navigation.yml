@@ -67,7 +67,7 @@
       ko-KR   : *KO
     url: https://github.com/Michael-LY/Michael-LY.github.io/
     
-   - titles: 
+  - titles: 
       en      : &EN       TopRace 
       en-GB   : *EN
       en-US   : *EN
