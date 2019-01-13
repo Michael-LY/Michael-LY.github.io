@@ -32,6 +32,39 @@ header:
       ko      : &KO       소개
       ko-KR   : *KO
     url: /about.html
+    
+  - titles:
+      en      : &EN       WUTE Stracker Page
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  WUTE Stracker Page
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      zh-Hant : &ZH_HANT  WUTE Stracker Page
+      zh-TW   : *ZH_HANT
+      zh-HK   : *ZH_HANT
+      ko      : &KO       WUTE Stracker Page
+      ko-KR   : *KO
+    url: http://45.40.207.193:50041/mainpage
+    
+  - titles: 
+      en      : &EN       Github 
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  Github 
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      zh-Hant : &ZH_HANT  Github 
+      zh-TW   : *ZH_HANT
+      zh-HK   : *ZH_HANT
+      ko      : &KO       Github 
+      ko-KR   : *KO
 
 docs-en:
   - title:      Start
