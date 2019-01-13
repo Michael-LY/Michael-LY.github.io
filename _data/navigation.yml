@@ -67,17 +67,17 @@ header:
       ko-KR   : *KO
     url: https://github.com/Michael-LY/Michael-LY.github.io/
 
-docs-en:
-  - title:      Start
-    children:
-      - title:  Quick Start
-        url:    
-      - title:  Structure
-        url:    
-        
-  - title:      Customization
-    children:
-      - title:  Configuration
-        url:    
-      - title:  Navigation
-        url:    
+#docs-en:
+#  - title:      Start
+#    children:
+#      - title:  Quick Start
+#        url:    
+#      - title:  Structure
+#        url:    
+#        
+#  - title:      Customization
+#    children:
+#      - title:  Configuration
+#        url:    
+#      - title:  Navigation
+#        url:    
